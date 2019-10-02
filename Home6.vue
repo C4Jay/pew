@@ -1,4 +1,4 @@
 <template>
-    <img>
+    <img src="youtu.com.jpg">
 
 </template>
